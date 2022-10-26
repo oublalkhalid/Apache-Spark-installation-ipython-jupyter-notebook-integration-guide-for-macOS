@@ -5,8 +5,6 @@ Apache Spark installation + ipython/jupyter notebook integration guide for macOS
 
 Tested with Apache Spark 2.1.0, Python 2.7.13 and Java 1.8.0_112
 
-For older versions of Spark and ipython, please, see also [previous version of text](https://gist.github.com/ololobus/4c221a0891775eaa86b0/956c90bceef6424ef74cc68c4b8b1acd688e1c82).
-
 
 Install Java Development Kit
 ----------------------------
